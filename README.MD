@@ -36,3 +36,7 @@ This project is a simple Spam Classifier for emails or SMS messages. It utilizes
 
 The project uses the Streamlit library for building interactive web applications in Python.
 The machine learning model is built using scikit-learn.
+
+## Contribution
+
+Contributions are welcome!
