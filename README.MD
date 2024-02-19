@@ -1,4 +1,5 @@
 # Email/SMS Spam Classifier
+![spam](https://github.com/Fahad87667/Email-SMS-Spam-Classifier/assets/134509875/ad76d0e3-05df-4181-8509-5f1083a5f92e)
 
 ## Overview
 
