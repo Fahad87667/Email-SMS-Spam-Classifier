@@ -40,4 +40,3 @@ The machine learning model is built using scikit-learn.
 ## Contribution
 
 Contributions are welcome!
-![Contribution](![./spam.jpg])
