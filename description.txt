@@ -1,0 +1,5 @@
+Developed a robust spam/not spam email classifier using Naive Bayes algorithm for accurate email categorization.
+
+Implemented a user-friendly interface using Streamlit, enhancing accessibility and providing an intuitive experience for end-users.
+
+Successfully deployed the project on Heroku, showcasing proficiency in both machine learning model development and cloud-based application deployment.
